@@ -1,4 +1,6 @@
 # Security Policies, Policies and Plans
+* To view documents select 'raw' and the document will download for review*
+
 Contains 1 Security Program Roadmap Presentation for a Healthcare Corporation, 2 Security Proposals, 3 Policies and 2 Plans written to practice Cybersecurity related documentation, recommendation and advice that best suites a company.
 
 This contains 2 proposals:
